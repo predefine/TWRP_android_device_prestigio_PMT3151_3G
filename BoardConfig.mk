@@ -65,7 +65,7 @@ TW_CUSTOM_CPU_TEMP_PATH := /sys/devices/virtual/thermal/thermal_zone1/temp
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/mt_usb/musb-hdrc.0.auto/gadget/lun%d/file
 
 TARGET_RECOVERY_FSTAB := $(LOCAL_PATH)/recovery/root/twrp.fstab
-TW_EXCLUDE_DEFAULT_USB_INIT := true
+TW_EXCLUDE_DEFAULT_USB_INIT := false
 
 TW_INCLUDE_CRYPTO := true
 TW_EXCLUDE_PYTHON := true
