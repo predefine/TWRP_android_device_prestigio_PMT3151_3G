@@ -1,0 +1,3 @@
+add_lunch_combo omni_pmt3151-user
+add_lunch_combo omni_pmt3151-userdebug
+add_lunch_combo omni_pmt3151-eng
