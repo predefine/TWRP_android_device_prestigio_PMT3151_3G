@@ -1,6 +1,6 @@
-ifneq ($(filter pmt3151,$(TARGET_DEVICE)),)
+ifneq ($(filter PMT3151_3G_3G,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/prestigio/pmt3151
+LOCAL_PATH := device/prestigio/PMT3151_3G_3G
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 

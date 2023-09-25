@@ -1,8 +1,8 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_pmt3151.mk
+    $(LOCAL_DIR)/omni_PMT3151_3G.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_pmt3151-user \
-    omni_pmt3151-userdebug \
-    omni_pmt3151-eng
+    omni_PMT3151_3G-user \
+    omni_PMT3151_3G-userdebug \
+    omni_PMT3151_3G-eng
 
